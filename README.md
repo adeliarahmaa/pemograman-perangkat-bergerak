@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # my_first_app
 
 A new Flutter project.
@@ -18,4 +18,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # pemograman-perangkat-bergerak
->>>>>>> 54579b88bb77dc5c1d954e134d63e4b78b3e501a
+
